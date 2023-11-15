@@ -1,3 +1,9 @@
+
+![Capture](https://github.com/daha40/Currency-Converter/assets/64675525/d94d3e3f-173d-4f81-a12e-08f4f723909c)
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
