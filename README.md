@@ -2,6 +2,8 @@
 ![Capture](https://github.com/daha40/Currency-Converter/assets/64675525/d94d3e3f-173d-4f81-a12e-08f4f723909c)
 
 
+It is an application designed for quick and easy currency conversion, allowing users to convert Algerian Dinar to various global currencies. The app provides regularly updated exchange rates to ensure accuracy in transactions and assists users in monitoring their financial transfers effortlessly. This tool enables users to swiftly track price fluctuations and facilitates cash conversion between the Algerian Dinar and other global currencies.
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
