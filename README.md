@@ -1,5 +1,5 @@
 
-![Capture](https://github.com/daha40/Currency-Converter/assets/64675525/d94d3e3f-173d-4f81-a12e-08f4f723909c)
+![283059980-d94d3e3f-173d-4f81-a12e-08f4f723909c](https://github.com/daha40/Currency-Converter/assets/64675525/ca695ee1-20cf-4b34-8d2f-2e631a619c7c)
 
 
 It is an application designed for quick and easy currency conversion, allowing users to convert Algerian Dinar to various global currencies. The app provides regularly updated exchange rates to ensure accuracy in transactions and assists users in monitoring their financial transfers effortlessly. This tool enables users to swiftly track price fluctuations and facilitates cash conversion between the Algerian Dinar and other global currencies.
